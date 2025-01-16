@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Estuardo Marroquin
+
+Bachelor of Science in Computer Science
