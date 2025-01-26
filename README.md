@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Estuardo Marroquin
+Estuardo Marroquin 
 
 Bachelor of Science in Computer Science
+
+Two personal projects:
+
+- 2D Game in godot (Stardew Valley or Terraria like), I want to create a 2D survival game, with mechanics like planting crops, gathering resources, and interacting with characters.
+
+- Text-based game in LC3 Aassembly, like hangman game, where the player guesses letters to reveal a hidden word and tracks progress.
+
+<img src="https://w.wallhaven.cc/full/d6/wallhaven-d6y12l.jpg" width="250" />
